@@ -1,0 +1,134 @@
+{
+    "timeout": {
+		"enable": true,
+		"arg": 0
+		},
+    "nopreview": {
+		"enable": true,
+		"arg": null
+		},
+    "width": {
+		"enable": true,
+		"arg": 640
+		},
+    "height": {
+		"enable": true,
+		"arg": 360
+		},
+    "framerate": {
+		"enable": true,
+		"arg": 30
+		},
+    "inline": {
+		"enable": true,
+		"arg": null
+		},
+	"rawfull": {
+		"enable": false,
+		"arg": null
+		},
+	"hflip": {
+		"enable": false,
+		"arg": null
+		},
+	"vflip": {
+		"enable": false,
+		"arg": null
+		},
+	"rotation": {
+		"enable": false,
+		"arg": null
+		},
+	"roi": {
+		"enable": false,
+		"arg": null
+		},
+	"shutter": {
+		"enable": false,
+		"arg": null
+		},
+	"exposure": {
+		"enable": false,
+		"arg": null
+		},
+	"ev": {
+		"enable": false,
+		"arg": null
+		},
+	"awb": {
+		"enable": false,
+		"arg": null
+		},
+	"awbgains": {
+		"enable": false,
+		"arg": null
+		},
+	"wrap": {
+		"enable": false,
+		"arg": null
+		},
+	"brightness": {
+		"enable": false,
+		"arg": null
+		},
+	"contrast": {
+		"enable": false,
+		"arg": null
+		},
+	"saturation": {
+		"enable": false,
+		"arg": null
+		},
+	"sharpness": {
+		"enable": false,
+		"arg": null
+		},
+	"denoise": {
+		"enable": false,
+		"arg": null
+		},
+	"tuning-file": {
+		"enable": false,
+		"arg": null
+		},
+	"lores-width": {
+		"enable": false,
+		"arg": null
+		},
+	"lores-height": {
+		"enable": false,
+		"arg": null
+		},
+	"mode": {
+		"enable": false,
+		"arg": null
+		},
+	"autofocus": {
+		"enable": false,
+		"arg": null
+		},
+	"continue-autofocus": {
+		"enable": false,
+		"arg": null
+		},
+	"bitrate": {
+		"enable": false,
+		"arg": null
+		},
+	"profile": {
+		"enable": false,
+		"arg": null
+		},
+	"codec": {
+		"enable": false,
+		"arg": null
+		},
+	"segment": {
+		"enable": false,
+		"arg": null
+		},
+    "output": {
+		"enable": true,
+		"arg": "-"
+		}
+}
