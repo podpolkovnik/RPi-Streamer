@@ -3,6 +3,7 @@
 ## Install necessarry libraries
 ```console
 pip3 install azure-iot-device
+pip3 install watchdog
 
 ```
 ## Azure scheme
